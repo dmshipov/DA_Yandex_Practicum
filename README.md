@@ -1,1 +1,1 @@
-# DA_Yandex_Practicum
+# da_yandex_practicum
